@@ -4,6 +4,7 @@ class Solution {
         for (int i = 0;; ++i) {
             int x = nums[i];
             int y = target - x;
+            
             if (d.containsKey(y)) {
                 return new int[] {d.get(y), i};
             }
