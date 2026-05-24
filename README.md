@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
