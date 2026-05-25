@@ -9,12 +9,12 @@ class Solution {
 
         for(int num: numSet){
             if(!numSet.contains(num-1)){
-                int lenght = 1;
+                int length = 1;
                 
-                while(numSet.contains(num+lenght))
-                    lenght++;
+                while(numSet.contains(num+length))
+                    length++;
                 
-                res = Math.max(lenght, res);
+                res = Math.max(length, res);
             }
         }
 
