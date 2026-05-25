@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
