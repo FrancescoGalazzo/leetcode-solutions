@@ -2,8 +2,19 @@ class Solution {
     public int eraseOverlapIntervals(int[][] intervals) {
         
         // Sort by end time: earliest-finishing interval first
-        
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[1], b[1]));
+
+        // Fix 1: Guard clause for edge case
+        if (intervals == null || intervals.length == 0) {
+            return 0;
+        }
+
+        // Fix 2: Optimize the sort speed using a specialized primitive comparator
+        Arrays.sort(intervals, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] a, int[] b) {
+                return Integer.compare(a[1], b[1]);
+            }
+        });
 
         int removed = 0;
         int prevEnd = intervals[0][1];
