@@ -1,45 +1,42 @@
 class Solution {
 
-    private int dist2(int[] p) {
-        return p[0] * p[0] + p[1] * p[1];
+        public int[][] kClosest(int[][] points, int k) {
+        int L = 0, R = points.length - 1;
+        int pivot = points.length;
+
+        while (pivot != k) {
+            pivot = partition(points, L, R);
+            if (pivot < k) {
+                L = pivot + 1;
+            } else {
+                R = pivot - 1;
+            }
+        }
+        int[][] res = new int[k][2];
+        System.arraycopy(points, 0, res, 0, k);
+        return res;
     }
 
     private int partition(int[][] points, int l, int r) {
-        int[] pivot = points[r];
-        int pivotDist = dist2(pivot);
+        int pivotIdx = r;
+        int pivotDist = euclidean(points[pivotIdx]);
         int i = l;
         for (int j = l; j < r; j++) {
-            if (dist2(points[j]) <= pivotDist) {
-                swap(points, i, j);
+            if (euclidean(points[j]) <= pivotDist) {
+                int[] temp = points[i];
+                points[i] = points[j];
+                points[j] = temp;
                 i++;
             }
         }
-        swap(points, i, r);
+        int[] temp = points[i];
+        points[i] = points[r];
+        points[r] = temp;
         return i;
     }
 
-    private void quickselect(int[][] points, int l, int r, int K) {
-        if (l >= r) return;
-        int p = partition(points, l, r);
-        int leftCount = p - l + 1;
-        if (leftCount == K) {
-            return;
-        } else if (leftCount > K) {
-            quickselect(points, l, p - 1, K);
-        } else {
-            quickselect(points, p + 1, r, K - leftCount);
-        }
-    }
-
-    private void swap(int[][] points, int i, int j) {
-        int[] tmp = points[i];
-        points[i] = points[j];
-        points[j] = tmp;
-    }
-
-    public int[][] kClosest(int[][] points, int K) {
-        quickselect(points, 0, points.length - 1, K);
-        return Arrays.copyOfRange(points, 0, K);
+    private int euclidean(int[] point) {
+        return point[0] * point[0] + point[1] * point[1];
     }
 
     /*
