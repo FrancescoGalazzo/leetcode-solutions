@@ -1,5 +1,6 @@
 class Solution {
 
+    /*
         public int[][] kClosest(int[][] points, int k) {
         int L = 0, R = points.length - 1;
         int pivot = points.length;
@@ -39,7 +40,8 @@ class Solution {
         return point[0] * point[0] + point[1] * point[1];
     }
 
-    /*
+    */
+
     public int[][] kClosest(int[][] points, int k) {
         // Keep an int[] where index 0 is squared distance, index 1 is the point's index
         PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> Integer.compare(b[0], a[0]));
@@ -62,5 +64,5 @@ class Solution {
 
         return results;
     }
-    */
+    
 }
