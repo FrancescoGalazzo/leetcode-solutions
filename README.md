@@ -20,6 +20,7 @@
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1046-last-stone-weight](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1046-last-stone-weight](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
