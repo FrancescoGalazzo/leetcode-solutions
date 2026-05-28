@@ -54,34 +54,27 @@ class Solution {
     // Soluzione 2: max-heap (O(n log k), stabile e semplice)
 
     public int[][] kClosest(int[][] points, int k) {
-        // max-heap: in cima c'è il punto con distanza più GRANDE tra quelli nel heap
+     // max-heap per distanza: confronta i punti direttamente
         PriorityQueue<int[]> maxHeap = new PriorityQueue<>(
-            (a, b) -> Integer.compare(b[0], a[0])   // ordina per distanza² decrescente
+            (a, b) -> Integer.compare(
+                b[0] * b[0] + b[1] * b[1],
+                a[0] * a[0] + a[1] * a[1]
+            )
         );
 
-        // Scorri tutti i punti
         for (int[] p : points) {
-            int x = p[0];
-            int y = p[1];
-            int dist2 = x * x + y * y;  // distanza al quadrato
-
-            // Nel heap metto: [dist², x, y]
-            maxHeap.offer(new int[]{dist2, x, y});
-
-            // Se ho più di k elementi, butto via il più lontano (in cima al max-heap)
+            maxHeap.offer(p);
             if (maxHeap.size() > k) {
                 maxHeap.poll();
             }
         }
 
-        // Ora nel heap sono rimasti esattamente k punti più vicini
         int[][] res = new int[k][2];
-        for (int i = 0; i < k; i++) {
-            int[] e = maxHeap.poll();   // e = [dist², x, y]
-            res[i][0] = e[1];           // x
-            res[i][1] = e[2];           // y
+        for (int i = k - 1; i >= 0; i--) {
+            int[] p = maxHeap.poll();
+            res[i][0] = p[0];
+            res[i][1] = p[1];
         }
-
         return res;
     }
 }
