@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -41,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,12 +68,14 @@
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +95,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -122,6 +127,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
 | ------- |
