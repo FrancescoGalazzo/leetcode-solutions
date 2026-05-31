@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
