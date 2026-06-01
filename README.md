@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Bucket Sort
@@ -160,5 +162,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
