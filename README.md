@@ -51,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -164,4 +167,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
