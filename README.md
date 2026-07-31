@@ -39,6 +39,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -171,4 +172,16 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
