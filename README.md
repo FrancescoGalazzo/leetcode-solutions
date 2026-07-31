@@ -22,6 +22,7 @@
 | [0435-non-overlapping-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -176,12 +178,18 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
