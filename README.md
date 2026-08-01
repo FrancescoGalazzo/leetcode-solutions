@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
@@ -178,12 +180,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -194,6 +198,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
