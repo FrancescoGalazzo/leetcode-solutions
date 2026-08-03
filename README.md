@@ -27,6 +27,7 @@
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Prefix Sum
 |  |
@@ -191,6 +192,7 @@
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -201,4 +203,5 @@
 | [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
