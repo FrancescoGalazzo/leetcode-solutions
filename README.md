@@ -183,6 +183,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -190,6 +191,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Matrix
 |  |
 | ------- |
@@ -204,4 +207,12 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
