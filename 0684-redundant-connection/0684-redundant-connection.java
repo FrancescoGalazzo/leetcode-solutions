@@ -1,46 +1,38 @@
-class Solution {
-
+public class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
-
-        int[] parent = new int[n + 1];
-
-        // All'inizio ogni nodo è un gruppo separato.
-        for (int i = 1; i <= n; i++) {
-            parent[i] = i;
-        }
-
+        int[] indegree = new int[n + 1];
+        List<List<Integer>> adj = new ArrayList<>(n + 1);
+        for (int i = 0; i <= n; i++) adj.add(new ArrayList<>());
         for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            // Se u e v hanno la stessa radice,
-            // l'arco corrente crea un ciclo.
-            if (find(parent, u) == find(parent, v)) {
-                return edge;
-            }
-
-            union(parent, u, v);
+            int u = edge[0], v = edge[1];
+            adj.get(u).add(v);
+            adj.get(v).add(u);
+            indegree[u]++;
+            indegree[v]++;
         }
 
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 1; i <= n; i++) {
+            if (indegree[i] == 1) q.offer(i);
+        }
+
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            indegree[node]--;
+            for (int nei : adj.get(node)) {
+                indegree[nei]--;
+                if (indegree[nei] == 1) q.offer(nei);
+            }
+        }
+
+        for (int i = edges.length - 1; i >= 0; i--) {
+            int u = edges[i][0], v = edges[i][1];
+            if (indegree[u] == 2 && indegree[v] > 0)
+                return new int[]{u, v};
+        }
         return new int[0];
     }
 
-    private int find(int[] parent, int node) {
-        // Risale fino alla radice del gruppo.
-        while (parent[node] != node) {
-            node = parent[node];
-        }
-
-        return node;
-    }
-
-    private void union(int[] parent, int u, int v) {
-        int rootU = find(parent, u);
-        int rootV = find(parent, v);
-
-        // Collega il gruppo di v al gruppo di u.
-        parent[rootV] = rootU;
-    }
 }
 
