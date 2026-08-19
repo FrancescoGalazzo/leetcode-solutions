@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
