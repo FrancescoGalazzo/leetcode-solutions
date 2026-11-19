@@ -1,57 +1,42 @@
-class TrieNode {
-    TrieNode[] children = new TrieNode[26];
-    boolean isEndOfWord = false;
-}
-
 class Trie {
-    private final TrieNode root;
+    private Trie[] children;
+    private boolean isEnd;
 
     public Trie() {
-        root = new TrieNode();
-    }
-    
-    public void insert(String word) {
-        TrieNode current = root;
-        for (char c : word.toCharArray()) {
-            int index = c - 'a'; // Mappa 'a'-'z' negli indici 0-25
-            if (current.children[index] == null) {
-                current.children[index] = new TrieNode();
-            }
-            current = current.children[index];
-        }
-        current.isEndOfWord = true;
+        children = new Trie[26];
     }
 
-    
-    public boolean search(String word) {
-        TrieNode current = root;
+    public void insert(String word) {
+        Trie node = this;
         for (char c : word.toCharArray()) {
-            int index = c - 'a';
-            if (current.children[index] == null) {
-                return false;
+            int idx = c - 'a';
+            if (node.children[idx] == null) {
+                node.children[idx] = new Trie();
             }
-            current = current.children[index];
+            node = node.children[idx];
         }
-        return current.isEndOfWord;
+        node.isEnd = true;
     }
-    
+
+    public boolean search(String word) {
+        Trie node = searchPrefix(word);
+        return node != null && node.isEnd;
+    }
+
     public boolean startsWith(String prefix) {
-        TrieNode current = root;
-        for (char c : prefix.toCharArray()) {
-            int index = c - 'a';
-            if (current.children[index] == null) {
-                return false;
+        Trie node = searchPrefix(prefix);
+        return node != null;
+    }
+
+    private Trie searchPrefix(String s) {
+        Trie node = this;
+        for (char c : s.toCharArray()) {
+            int idx = c - 'a';
+            if (node.children[idx] == null) {
+                return null;
             }
-            current = current.children[index];
+            node = node.children[idx];
         }
-        return true;
+        return node;
     }
 }
-
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie obj = new Trie();
- * obj.insert(word);
- * boolean param_2 = obj.search(word);
- * boolean param_3 = obj.startsWith(prefix);
- */
