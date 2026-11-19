@@ -48,6 +48,7 @@
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bucket Sort
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
