@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -257,6 +258,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
