@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0146-lru-cache) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FrancescoGalazzo/leetcode-solutions/tree/master/0695-max-area-of-island) |
